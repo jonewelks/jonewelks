@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jonewelks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# SeleniumWebDriver
 
-<!---
-jonewelks/jonewelks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## CONFIGURAÇÃO CHROMEDRIVER
+<p align="justify"> Nas variaveis de ambiente do sistema, colocar no PATH o caminho do chrome driver.</p>
+<p align="justify"> Driver está na pasta raiz do projeto com nome: target/ChromeDriver/chromedriver.exe </p>
+<p align="justify"> A versão do chrome que foi desenvolvido o teste foi a ultima: Versão 91.0.4472.101 (Versão oficial) 64 bits </p>
+
